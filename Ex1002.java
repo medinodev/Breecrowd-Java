@@ -18,6 +18,8 @@ public class Ex1002 {
         System.out.println(String.format("A=%.4f", calculoArea));
 
         System.out.println("jjjjj");
+
+        System.out.println("bubbdy");
     }
 
 }
