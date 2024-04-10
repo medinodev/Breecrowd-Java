@@ -19,7 +19,8 @@ public class Ex1002 {
 
         System.out.println("jjjjj");
 
-        System.out.println("bubbdy");
+        System.out.println("wqwqfyfyfyw");
+
     }
 
 }
