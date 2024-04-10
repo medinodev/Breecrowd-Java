@@ -16,6 +16,8 @@ public class Ex1002 {
         double calculoArea = valorPi * (valorRaio * valorRaio);
 
         System.out.println(String.format("A=%.4f", calculoArea));
+
+        System.out.println("jjjjj");
     }
 
 }
